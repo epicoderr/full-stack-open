@@ -1,4 +1,5 @@
-sequenceDiagram
+Sequence Diagram for 0.4
+
     participant browser
     participant server
 
@@ -35,7 +36,8 @@ sequenceDiagram
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-sequenceDiagram
+Sequence Diagram for 0.5
+
     participant browser
     participant server
 
@@ -63,7 +65,8 @@ sequenceDiagram
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
-sequenceDiagram
+Sequence Diagram for 0.6
+
     participant browser
     participant server
 
