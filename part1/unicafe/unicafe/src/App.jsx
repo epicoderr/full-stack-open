@@ -8,9 +8,9 @@ const Button = (props) => (
 
 const Statisticsline = ({ name, number }) => (
   <tr>
-    <td>{name}</td>
-    <td>{number}</td>
-  </tr>
+    <td>{name}</td>
+    <td>{number}</td>
+  </tr>
 )
 
 const Statistics = (props) => {
