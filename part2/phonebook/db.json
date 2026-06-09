@@ -1,0 +1,39 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456",
+      "id": "1"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523",
+      "id": "2"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345",
+      "id": "3"
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "name": "pauli",
+      "number": "maijala"
+    },
+    {
+      "id": "6",
+      "name": "polli muumi",
+      "number": "122136767"
+    },
+    {
+      "id": "c5b2",
+      "name": "LEBRON james",
+      "number": "77777777777"
+    }
+  ]
+}

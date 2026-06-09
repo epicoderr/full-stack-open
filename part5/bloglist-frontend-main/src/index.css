@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: #f4f6fb;
+  color: #1f2937;
+}
+
+.app-shell {
+  padding: 1rem 0 2rem;
+}
+
+.card,
+.form-card,
+.blog-list {
+  background: white;
+  border-radius: 12px;
+}
+
+.blog a,
+.blog-list a {
+  font-weight: 700;
+  color: #2563eb;
+}
+
+.blog-view p {
+  line-height: 1.5;
+}
+
+.blog-details {
+  margin-top: 0.5rem;
+}
+
+.blog-basic {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+
+.blog-title-author {
+  font-weight: 700;
+}
+
+.success,
+.error {
+  font-size: 1rem;
+}
